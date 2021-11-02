@@ -36,25 +36,25 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  return suma( x, y);
+  return x + y;
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  return resta(x,y);
+  return x - y;
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  return multiplica(x, y);
+  return x * y;
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-  return divide(x, y);
+  return x / y;
 }
 
 function sonIguales(x, y) {
@@ -170,9 +170,9 @@ function esPositivo(numero) {
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
   if (numero > 0){
-    return 'es positivo';
+    return 'Es positivo';
   }  else if (numero < 0){
-    return 'es negativo';
+    return 'Es negativo';
   } else {
     return false;
   }
@@ -235,14 +235,14 @@ function esVocal(letra){
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
   // Si no es vocal, tambien debe devolver "Dato incorrecto".
   //Escribe tu código aquí
-  if (letra.length() === 1){
+  if (letra.length === 1){
     if (letra === 'a' || letra === 'e' || letra === 'i' || letra === 'o' || letra === 'u'){
-      return 'Es vocal';
+      return "Es vocal";
     } else{
-      return 'Dato incorrecto';
+      return "Dato incorrecto";
     }
   } else {
-  return 'Dato incorrecto';
+  return "Dato incorrecto";
 }
 } 
 
