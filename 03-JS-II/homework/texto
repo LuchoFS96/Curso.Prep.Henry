@@ -1,0 +1,3 @@
+Bucle for sirve para automizar tareas a traves de un ciclo determinado por una condicion.
+Operadores logicos que me ayudan a hace mas especifica y facil la condicion de un ciclo. || me permite optar entre condiciones. 
+&& me permite filtrar argumentos que no cumplan con ambas condiciones. ! 'NOT' me ayuda a encontrar valores opuestos a los argumentos o variables.
