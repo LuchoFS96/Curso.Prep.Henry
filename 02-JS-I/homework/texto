@@ -1,0 +1,4 @@
+    Una variable almacena un dato o informacion.
+    Strings son atributos de un dato, especificamente cadenas de texto.
+    Las funciones son objetos que pueden trabajar con argumentos (datos) para devolvernos un resultado.
+    La declaracion if es una forma de que nuestra funcion verifique si algo es verdadero, o falso, devolviendo asi un estado booleano(es decir, binario).
