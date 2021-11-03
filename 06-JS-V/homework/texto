@@ -1,0 +1,2 @@
+Prototype hace referencia al objeto que precede a todos los objetos, antes de llegar a Object. Nos permite llamar a funciones de estos objetos que preceden al que estamos trabajando.
+Definimos como constructores a aquellas clases que no tienen un return, y son utilizadas para la creacion de objetos.
