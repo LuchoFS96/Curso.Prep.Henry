@@ -1,0 +1,5 @@
+Un objeto es una coleccion de pares Key;Value, donde las Key son llamadas Propiedades de un objeto y Value son los datos que cada unos de las Propiedades contiene.
+Métodos son funciones dentro de un objeto que realizan una tarea.
+Utilizamos los bucles for...in para recorrer todos los pares dentro de un objeto.
+Notacion de puntos me sirve cuando tengo en claro que parametro dentro de un objeto estoy buscando.
+Notacion por corchetes me sirve para llamar un dato dentro de un objeto cuando me pasan el nombre del identificador a traves de un argumento.
